@@ -28,13 +28,10 @@ Built with JavaScript, HTML, CSS, Node.js, Express, chalk, jest, inquirer and so
 ### EDUCATION & Certificates
 **Code Fellows** | Seattle, WA
  Certificate - Advanced Software Development in Full-Stack JavaScript | Dec 2020
- 
-**Udemy** | Seattle, WA
+ **Udemy** | Seattle, WA
  Certificate - The Complete 2020 Web Development Bootcamp | Nov 2020
-
 **Udemy** | Seattle, WA
  Certificate - Data Structures + Algorithms | Dec 2020
-
 **Pima Medical Institute** | Renton, WA
  Certificate - Pharmacy Technician II | Jan-Dec. 2012
 
