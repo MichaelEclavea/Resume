@@ -31,13 +31,15 @@ Built with JavaScript, HTML, CSS, Node.js, Express, chalk, jest, inquirer and so
  <br />
  **Udemy** | Seattle, WA
  Certificate - The Complete 2020 Web Development Bootcamp  Nov 2020
- 
+ <br/>
 **Udemy** | Seattle, WA
  Certificate - Data Structures + Algorithms  Dec 2020
  <br />
+ 
 **Pima Medical Institute** | Renton, WA
  Certificate - Pharmacy Technician II  Jan-Dec. 2012
----
+<br />
+
 ### EXPERIENCE
  **Swedish Medical Center**, Inpatient Pharmacy Technician | Feb.2018 - Aug.2020
 - Iv admixture
