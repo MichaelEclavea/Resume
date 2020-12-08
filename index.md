@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+# **Michael Eclavea**
 
-You can use the [editor on GitHub](https://github.com/MichaelEclavea/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Software Developer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Seattle, Wa | Usermike671@gmail.com | 206-228-9661
 
-### Markdown
+I am a professional Software Developer experienced with working in fast-paced environments that demand strong professional, technical and organizational skills. Extremely detail oriented and independently resourceful in completing tasks. Excellent with working in group settings. Respectful and understanding towards others with different views and ethnic backgrounds.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### TECHNICAL SKILLS
+- Languages:JavaScript, HTML5, CSS, JQUERY, SQL
+- Frameworks:React, React Native, Redux, REST, APIs, Django, MongoDB
+- Tools:git, GitHub, VS Code, AWS Amplify, AWS EC2, AWS Route53
 
-```markdown
-Syntax highlighted code block
+### PROJECTS
+**The Art of Magic The Gathering** | October 2020 | [The Art of Magic The Gathering](https://the-art-of-magic-the-gathering.herokuapp.com/).
+- A creative application that allows users to search for artwork from The Magic the Gathering cards.
+ Built with JavaScript, HTML, CSS, JQuery, Node.js, Express, Photoshop, PostgreSQL & integrated with The Magic The Gathering API
 
-# Header 1
-## Header 2
-### Header 3
+**Escape Room** | August 2020 | [Escape Room](https://kmac1027.github.io/escape-room-game/).
+- An interactive escape room game that allows the user to move through different levels.
+Built with JavaScript, HTML, CSS, Jquery using industry standards and best practices for client-side web apps
 
-- Bulleted
-- List
+**Code Quest: Battle For The Kingdom** | Nov 2020 | [Battle For The Kingdom](https://github.com/code-heros-quest/battle-for-the-kingdom)
+- An extensive terminal text based game. Users are able to download and play right inside their terminal. Different scenarios are available, depending on the outcome of the paths chosen by player. 
+Built with JavaScript, HTML, CSS, Node.js, Express, chalk, jest, inquirer and socket.io.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### EDUCATION & Certificates
+**Code Fellows** | Seattle, WA
+ Certificate - Advanced Software Development in Full-Stack JavaScript | Dec 2020
+ 
+**Udemy** | Seattle, WA
+ Certificate - The Complete 2020 Web Development Bootcamp | Nov 2020
 
-[Link](url) and ![Image](src)
-```
+**Udemy** | Seattle, WA
+ Certificate - Data Structures + Algorithms | Dec 2020
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Pima Medical Institute** | Renton, WA
+ Certificate - Pharmacy Technician II | Jan-Dec. 2012
 
-### Jekyll Themes
+### EXPERIENCE
+ **Swedish Medical Center**, Inpatient Pharmacy Technician | Feb.2018 - Aug.2020
+- Iv admixture
+- Inpatient triage
+- Pyxis medication management
+- Medication compounding
+- Chemo admixture and safe handling of hazardous medication
+- ES Pyxis user
+- Inventory auditing and date tracking 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MichaelEclavea/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ **Valley Medical Center**, Inpatient Pharmacy Technician |Nov.2014 - Jan.2018
+- Inpatient triaging
+- Managing Inpatient Pharmacy phone calls
+- Iv admixture
+- Pyxis medication management
+- Bulk compounding
+- Medication inventory auditing
+- ES pyxis user
 
-### Support or Contact
+**Valley Medical Center**, Feb.2010 - Oct. 2014 |Warehouse Lead
+- Operating forklift, pallet jack and other light machinery
+- Creating and Managing Excel data spreadsheets
+- Lifting 30-50 pounds continuously
+- Providing customer service to VMC employees
+- Labeling inventory as well as record keeping
+- Responsible for managing the warehouse for a safe and clean work
+- Organizing and record keeping of VMC medical records
+- Scanning and faxing sensitive documents to authorized vendors
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
