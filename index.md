@@ -16,6 +16,10 @@ I am a professional Software Developer experienced with working in fast-paced en
 - A creative application that allows users to search for artwork from The Magic the Gathering cards.
  Built with JavaScript, HTML, CSS, JQuery, Node.js, Express, Photoshop, PostgreSQL & integrated with The Magic The Gathering API
 
+**MyQuickPick** | [My Quick Pick](https://my-quick-pick.herokuapp.com/).
+- A application that is designed to allow people to better tailor their lotto quick picks to a more specified range. 
+ Built with React.js, JavaScript, HTML, CSS, Node.js, node-sass and jest.
+
 **Escape Room** | [Escape Room](https://kmac1027.github.io/escape-room-game/).
 - An interactive escape room game that allows the user to move through different levels.
 Built with JavaScript, HTML, CSS, Jquery using industry standards and best practices for client-side web apps
